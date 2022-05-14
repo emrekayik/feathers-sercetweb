@@ -1,0 +1,12 @@
+{
+  "name": "feather-sercetweb",
+  "version": "1.0.0",
+  "description": "SercetWEB FeatherJS version",
+  "main": "index.js",
+  "repository": "https://github.com/emrekayik/feathers-sercetweb.git",
+  "author": "Emre Kayık <emrekayik1905@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/feathers": "^5.0.0-pre.20"
+  }
+}
